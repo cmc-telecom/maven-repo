@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>vn.cmctelecom</groupId>
+  <artifactId>ffs-server</artifactId>
+  <versioning>
+    <release>1.0.0</release>
+    <versions>
+      <version>1.0.0</version>
+    </versions>
+    <lastUpdated>20161123064627</lastUpdated>
+  </versioning>
+</metadata>
